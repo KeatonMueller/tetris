@@ -99,7 +99,7 @@ public class T extends Shape{
 		return false;
 	}
 	public boolean update(){
-		if(d/10 != 22){
+		if(d/10 != 23){
 			if(orient == 0){
 				if(super.checkDown(b) && super.checkDown(c) && super.checkDown(d)){
 					return true;

@@ -229,7 +229,7 @@ public class L2 extends Shape{
 		return false;
 	}
 	public boolean update(){
-		if(d/10 != 22){
+		if(d/10 != 23){
 			if(orient == 0){
 				if(super.checkDown(a) && super.checkDown(d)){
 					return true;
