@@ -8,4 +8,4 @@ Download and run `Tetris.jar`
 
 or
 
-Download `src` folder then compile and run `Tetris.java`
+Download `src` folder then compile and run `src/tetris/Tetris.java`
