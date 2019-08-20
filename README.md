@@ -1,7 +1,7 @@
 # Tetris
 This is a tetris game written in Java using the Swing library.
 
-# Instructions
+## Instructions
 Download and run `Tetris.jar`
 
 or
