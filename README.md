@@ -6,4 +6,4 @@ Download and run `Tetris.jar`
 
 or
 
-Download source code and run `Tetris.java`
+Download `src` folder and run `Tetris.java`
